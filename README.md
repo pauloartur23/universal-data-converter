@@ -34,7 +34,7 @@ Extensibilidade: Facilidade para adicionar novos formatos (como YAML ou CSV) ape
 🚀 Como Executar
 
 Clone o repositório:
-git clone [https://github.com/seu-usuario/universal-data-converter.git](https://github.com/seu-usuario/universal-data-converter.git)
+git clone [https://github.com/seu-usuario/universal-data-converter.git]
 
 Compile os arquivos:
 javac -d bin src/main/*.java src/model/*.java src/service/*.java
