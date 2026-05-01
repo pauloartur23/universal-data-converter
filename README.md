@@ -34,7 +34,7 @@ Extensibilidade: Facilidade para adicionar novos formatos (como YAML ou CSV) ape
 🚀 Como Executar
 
 Clone o repositório:
-git clone [https://github.com/seu-usuario/universal-data-converter.git]
+git clone [https://github.com/seu-usuario/universal-data-converter.git](https://github.com/seu-usuario/universal-data-converter.git)
 
 Compile os arquivos:
 javac -d bin src/main/*.java src/model/*.java src/service/*.java
@@ -60,4 +60,16 @@ JSON
   "nascimento": "2000-05-20",
   "ativo": true
 }
+
+
+## 🎓 Certificação
+
+Este projeto foi desenvolvido para aplicar os conhecimentos adquiridos na certificação:
+
+*   **Curso**: Imersão Prática com Collections e Outras Classes Úteis do Java.
+*   **Instituição**: DIO[cite: 1].
+*   **Carga Horária**: 11 horas[cite: 1].
+*   **Data de Conclusão**: 01/05/2026[cite: 1].
+
+📄 [**Clique aqui para visualizar o certificado em PDF**](./docs/Certificado-Java-Collections-Paulo-Artur.pdf)
 Desenvolvido como projeto prático para consolidar conhecimentos em Engenharia de Software e POO.
